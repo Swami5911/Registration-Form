@@ -13,9 +13,8 @@ Welcome to the Neumorphic Registration Form created by Mr.Swami. This form is no
 
 ## 📷 Preview
 
-![Registration Form Preview](Demo_Screenshot/WhatsApp Image 2024-01-17 at 23.26.42_c3f6bbdf.jpg
-Demo_Screenshot/WhatsApp Image 2024-01-17 at 23.27.41_ea0b4832.jpg
-Demo_Screenshot/WhatsApp Image 2024-01-17 at 23.29.03_ac40ac03.jpg)
+![Registration Form Preview 1](Demo_Screenshot/WhatsApp%20Image%202024-01-17%20at%2023.26.42_c3f6bbdf.jpg) ![Registration Form Preview 2](Demo_Screenshot/WhatsApp%20Image%202024-01-17%20at%2023.27.41_ea0b4832.jpg) ![Registration Form Preview 3](Demo_Screenshot/WhatsApp%20Image%202024-01-17%20at%2023.29.03_ac40ac03.jpg)
+
 
 ## 🌈 Usage
 
@@ -30,7 +29,7 @@ Demo_Screenshot/WhatsApp Image 2024-01-17 at 23.29.03_ac40ac03.jpg)
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](MIT) file for details.
 
 ## 🙌 Contribution
 

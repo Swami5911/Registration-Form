@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+<body>
+   <div class="content">
+      <div class="text">
+         Registration Form
+      </div>
+      <form action="/sign_up" method="POST">
+         <div class="field">
+            <input type="text" name="Name" required>
+            <span class="fas fa-user"></span>
+            <label>Name</label>
+         </div>
+         <div class="field">
+            <input type="number" name="Age" required>
+            <span class="fas fa-user"></span>
+            <label>Age</label>
+         </div>
+         <div class="field">
+            <input type="email" name="Email" required>
+            <span class="fas fa-envelope"></span>
+            <label>Email</label>
+         </div>
+         <div class="field">
+            <input type="tel" name="Phone" required>
+            <span class="fas fa-phone"></span>
+            <label>Phone</label>
+         </div>
+         <div class="field">
+            <input type="text" name="Gender" required>
+            <span class="fas fa-venus-mars"></span>
+            <label>Gender</label>
+         </div>
+         <div class="field">
+            <input type="password" name="Password" required>
+            <span class="fas fa-lock"></span>
+            <label>Password</label>
+         </div>
+         <button type="submit">Register</button>
+         <div class="Register">    
+            <p>Created By <a href="http://instagram.com/mr._swami_5911" style="color: #ff4d00;">Mr.Swami</a></p>
+         </div>
+      </form>
+   </div>
+   
+</body>
+</html>

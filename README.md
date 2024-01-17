@@ -13,7 +13,9 @@ Welcome to the Neumorphic Registration Form created by Mr.Swami. This form is no
 
 ## 📷 Preview
 
-![Registration Form Preview](/path/to/screenshot.png)
+![Registration Form Preview](Demo_Screenshot/WhatsApp Image 2024-01-17 at 23.26.42_c3f6bbdf.jpg
+Demo_Screenshot/WhatsApp Image 2024-01-17 at 23.27.41_ea0b4832.jpg
+Demo_Screenshot/WhatsApp Image 2024-01-17 at 23.29.03_ac40ac03.jpg)
 
 ## 🌈 Usage
 
